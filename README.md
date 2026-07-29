@@ -15,7 +15,7 @@ Promote inclusion by keeping the tool affordable and widely accessible.
 Raise SASL awareness through basic sign-learning features.
 
 
-# 🖐️ ASL Letter Recognition with Gemini AI
+# 🖐️ SASL Letter Recognition with Gemini AI
 
 An interactive web application that recognizes **South African Sign Language (SASL)** hand signs for the letters **A–E** using **Google Gemini 1.5 Flash** and a webcam or uploaded image. The application provides a simple interface for demonstrating how multimodal large language models can perform image-based classification.
 
