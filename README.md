@@ -42,7 +42,7 @@ An interactive web application that recognizes **South African Sign Language (SA
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sasl-letter-recognition.git
+git clone https://github.com/AluwaniNetshishivhe/Team-Unvoiced.git
 cd sasl-letter-recognition
 ```
 
