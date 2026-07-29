@@ -83,7 +83,7 @@ For better security, it is recommended to store the key as an environment variab
 Run the application:
 
 ```bash
-python app.py
+python asl_gemini_app.py
 ```
 
 Gradio will start a local web server and display a URL such as:
