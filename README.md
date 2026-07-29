@@ -14,6 +14,7 @@ Create a user-friendly interface for mobile and desktop devices.
 Promote inclusion by keeping the tool affordable and widely accessible.
 Raise SASL awareness through basic sign-learning features.
 
+Note: This repository is a fork of the original Team-Unvoiced project. It is showcased here to demonstrate my contributions and learning. The original project was developed collaboratively.
 
 # 🖐️ SASL Letter Recognition with Gemini AI
 
@@ -43,7 +44,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/AluwaniNetshishivhe/Team-Unvoiced.git
-cd sasl-letter-recognition
+cd Team-Unvoiced
 ```
 
 Install the required packages:
